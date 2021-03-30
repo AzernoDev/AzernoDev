@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AzernoDev
+- 👀 I’m interested in every thing about, online, game engine, tools, automation and blockchain
+- 🌱 I’m currently learning all about i'm interrested
