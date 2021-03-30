@@ -1,6 +1,6 @@
 
 [French - FR]
-- 👋 Salut, je suis @AzernoDev, 25ans, je suis un jeune dynamique développeur
+- 👋 Salut, je suis @AzernoDev, 25ans, je suis un jeune et dynamique développeur
 - 👀 Je suis intéressé par tout ce qui concerne le développement : Online, Moteur de jeu, Outils, Domotique, Robotique et Blockchain
 - 🌱 Je suis en train d'apprendre tout ce que j'ai dit plus tôt, car je ne cesse d'apprendre et vouloir aller plus loin.
 
